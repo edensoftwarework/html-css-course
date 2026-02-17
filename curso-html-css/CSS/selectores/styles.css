@@ -1,0 +1,15 @@
+p{
+  color: blue;
+}
+
+li{
+  color: gray;
+}
+
+.ingrediente-faltante{
+  color: red; 
+}
+
+#ingrediente-clave{
+  color: purple;
+}
